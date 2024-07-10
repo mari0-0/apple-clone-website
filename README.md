@@ -1,6 +1,6 @@
 # Apple iPhone 15 Series Website
 
-**Visit the live website at [apple clone](http://www.google.com).**
+**Visit the live website at [apple clone](https://apple-iphone-15-series-clone.netlify.app/).**
 
 This project is a highly interactive and visually appealing website showcasing the Apple iPhone 15. Built using React, GSAP, and Three.js, the website features a 3D model of the iPhone 15 with smooth animations and a handcrafted UI/UX designed by the Apple team. Additionally, metrics are implemented using Sentry for performance monitoring and error tracking.
 
