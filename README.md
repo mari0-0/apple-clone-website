@@ -31,7 +31,7 @@ This project is a highly interactive and visually appealing website showcasing t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iphone-15-website.git
+   git clone https://github.com/mari0-0/apple-clone-website.git
 
 2. Navigate to the project directory:
    ```bash
